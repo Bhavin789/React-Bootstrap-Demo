@@ -8,6 +8,6 @@ After the dependencies are installed, run `yarn start` to start the app.
 
 ## Analyse production bundle
 
-Run `yarn build` to create a production build.
+Run `yarn build` to create a production build with minified code.
 
 Run `yarn analyze` to analyze the bundle size of the production build. It gives a elaborative view of different bundle sizes in their minimized format.
